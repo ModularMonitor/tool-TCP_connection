@@ -1,0 +1,6 @@
+[submodule "deps/socket"]
+	path = deps/socket
+	url = https://www.github.com/LunarisLib/Lunaris-Socket
+[submodule "deps/console"]
+	path = deps/console
+	url = https://www.github.com/LunarisLib/Lunaris-Console
